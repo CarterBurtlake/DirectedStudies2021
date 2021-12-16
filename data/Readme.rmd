@@ -3,3 +3,7 @@
 
 This directory contains:
 
+1. An excel document of our meta data and raw data
+2. A CSV version of the meta data
+3. A CSV version of the raw data
+
