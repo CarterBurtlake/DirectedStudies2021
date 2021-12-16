@@ -1,4 +1,4 @@
-### This folder contains:
+### This directory contains:
 _____________________________
 
 1. A doc version of our full report
