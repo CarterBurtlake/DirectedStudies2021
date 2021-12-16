@@ -1,1 +1,6 @@
+### code output directory
+-----------------------------------
 
+This directory contains:
+
+1. A knitted PDF code output of our final DSA & DA code
