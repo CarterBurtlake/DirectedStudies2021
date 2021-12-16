@@ -1,1 +1,5 @@
+### This folder contains:
+_____________________________
 
+1. A doc version of our full report
+2. A PDF version of our full report
